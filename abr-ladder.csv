@@ -1,0 +1,6 @@
+rendition,resolution,width,height,video_bitrate_kbps,audio_bitrate_kbps,frame_rate,segment_duration_seconds,target_use
+1080p,1920x1080,1920,1080,5000,128,30,6,Large TV in room / good Wi-Fi
+720p,1280x720,1280,720,2800,128,30,6,Standard TV in room / good Wi-Fi
+480p,854x480,854,480,1400,96,30,6,Small screen / busy Wi-Fi
+360p,640x360,640,360,800,96,30,6,Mobile / weak Wi-Fi
+240p,426x240,426,240,400,64,30,6,Last resort / very weak connection
